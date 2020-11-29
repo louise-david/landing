@@ -1,0 +1,13 @@
+.navi-links{
+	display: flex;
+	justify-content: space-around;
+	background-color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+}
+
+.navi-links h3{
+	marker:none;
+	color:black;
+}
